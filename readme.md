@@ -10,7 +10,6 @@ more info : https://github.com/qmk/qmk_firmware
 
 layout details:
 
-`
 /* Workman (https://workmanlayout.org)
  * ,-----------------------------------------------------------------------------------.
  * | Esc  |   Q  |   D  |   R  |   W  |   B  |   J  |   F  |   U  |   P  |   ;  | Bksp |
@@ -71,4 +70,3 @@ layout details:
  * |BckLgt| Ctrl | Alt  | GUI  |Lower |    Space    |Raise | Left | Down |  Up  |Right |
  * `-----------------------------------------------------------------------------------'
  */
- `
